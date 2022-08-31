@@ -1,0 +1,5 @@
+-----
+
+On my journey to learning Python, this is one of my mini `lessons that helps me understand the inner workings of Python. Here is a Body Mass Index calcultor, that calculates your height, weight and age, then gives an output if you are overweight, just the right weight or underweight. I used the standard medical calculation to achieve this.
+
+By Iyayi Victor.
